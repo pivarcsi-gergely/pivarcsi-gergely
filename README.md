@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @pivarcsi-gergely
-- 👀 I’m interested in gamedev
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I’m @pivarcsi-gergely, aka. Pivarcsi Gergely Máté. I'm from Hungary, and I'm 19 y/o.
 
-<!---
-pivarcsi-gergely/pivarcsi-gergely is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m interested in and in the future want to become a gamedev (if my professional Val carrier will fail).
+
+I'm also a vocational student at Petrik Lajos Bilingual Vocational School of Chemistry, Environmental Protection and Information Technology, studying software engineering.
+
+Most of the repos I push here are the works I did at school (if this sentence makes sense and is grammarly correct). I speak both English and Hungarian (more or less at the same level).
+
+I have a Discord, you can reach me there: Startear#1930 (just state why you want to reach me)
