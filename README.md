@@ -1,4 +1,4 @@
-Hi, I’m @pivarcsi-gergely, aka. Pivarcsi Gergely Máté. I'm from Hungary, and I'm 19 y/o.
+Hi, I’m @pivarcsi-gergely, aka. Pivarcsi Gergely Máté!I'm from Hungary, and I'm 19 y/o.
 
 I’m interested in and in the future want to become a gamedev (if my attempt at a professional Valorant carrier will fail).
 
