@@ -1,9 +1,7 @@
-Hi, I’m @pivarcsi-gergely, aka. Pivarcsi Gergely Máté! I'm from Hungary, and I'm 20 y/o.
+Hi, I’m @pivarcsi-gergely, aka. Pivarcsi Gergely Máté! I'm from Hungary, and I'm 21 y/o.
 
-I’m interested in and in the future want to become a gamedev.
+I identify myself as a flexible student-for-life, eager to get into the software engieering field.
 
-I'm also a vocational student at Petrik Lajos Bilingual Vocational School of Chemistry, Environmental Protection and Information Technology, studying software engineering.
+I was a vocational student at Petrik Lajos Bilingual Vocational School of Chemistry, Environmental Protection and Information Technology, having studied and gratuated in software engineering.
 
-Most of the repos I push here are the works I did at school (if this sentence makes sense and is grammarly correct). I speak both English and Hungarian (more or less at the same level).
-
-I have a Discord, you can reach me there: Startear#1930 (just state why you want to reach me)
+I speak both English and Hungarian at a fluent level, and I'm also currently learning Polish.
